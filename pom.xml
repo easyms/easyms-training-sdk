@@ -23,7 +23,7 @@
     <properties>
         <maven.version>3.5.0</maven.version>
         <easyms.sdk.version>1.0.0-SNAPSHOT</easyms.sdk.version>
-        <swagger.version>2.9.2</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
     </properties>
 
     <modules>
